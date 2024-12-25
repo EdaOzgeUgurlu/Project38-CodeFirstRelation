@@ -16,3 +16,4 @@ namespace Project38_CodeFirstRelation.Data
         public User User { get; set; }
     }
 }
+//
